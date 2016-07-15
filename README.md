@@ -1,3 +1,3 @@
 # HelloWorld
 MyFirstRepo
-This is my first commit on GitHub.
+This is my Second commit on GitHub.
